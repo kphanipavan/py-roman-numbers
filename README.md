@@ -9,7 +9,7 @@ This package can be used to convert integers to roman numbers and vice versa.
 2) romanToInt(roman) => Integer
 
 # 1) Integer to Roman Number:
-Function call: intToRom(1232)
+Function call: intToRoman(1232)
 
 Return Value : 'MCCXXXII' string
 - while calling the Function, both integer and string are supported as parameters. 
