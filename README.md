@@ -2,6 +2,11 @@
 
 This package can be used to convert integers to roman numbers and vice versa.
 
+Import it into your file using the following:
+```python
+from pyroman import *
+```
+
 2 Functions are available for use:
 
 1) intToRoman(integer) => String
